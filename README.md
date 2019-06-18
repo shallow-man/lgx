@@ -1,0 +1,2 @@
+# lgx
+microservice-mallmanagement
